@@ -3,7 +3,7 @@
 ![kratos-compute-mad](https://github.com/user-attachments/assets/74d36f41-42bb-4d2a-83e5-132b342e6219)
 
 
-🔭 I’m currently working on cloud automation, containerization and security.<br><br>🌱 I’m currently learning scripting and exploring the Red Team/Blue Team field.<br>
+🔭 I’m currently working on cloud automation, containerization and security.<br><br>🌱 I’m currently learning rust and exploring web3 security field.<br>
 
 
 # 💻 Tech Stack:
